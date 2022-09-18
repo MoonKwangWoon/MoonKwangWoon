@@ -34,4 +34,6 @@ Learning: React, Flutter
      If you wanna contact me . plz send e-mail to 2022148010@tukorea.ac.kr
 ```
 
+[![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MoonKwangWoon&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+
 
