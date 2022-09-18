@@ -11,8 +11,8 @@ KwangWoon Moon
 age: 20 years
 Location: Siheung , Gyeonggi-do
 Gender: Man
-Language: Python
-Framework: Pytorch
+Language: Python , C , JavaScript , Java
+Framework: Pytorch , Jax
 Learning: React, Flutter
 
 
