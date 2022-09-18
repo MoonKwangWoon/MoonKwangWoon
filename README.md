@@ -34,12 +34,5 @@ Learning: React, Flutter
  
      If you wanna contact me . plz send e-mail to 2022148010@tukorea.ac.kr
      
-     
-
-
-
-
-
-
-
+-------------------------------------------    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wooney&theme=highcontrast&show_icons=true)
