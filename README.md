@@ -3,6 +3,8 @@ I appreciate you visit ⎝⍢⎠
 
 Wooney (우니)
 
+
+> neofetch
 KwangWoon Moon
 -----------------------------------------
 Uptime: 20 years
