@@ -16,12 +16,6 @@ Framework: Pytorch
 Learning: React, Flutter
 
 
-[![Notion Badge] (https://img.shields.io/badge/-Notion-black?style=flat-square&logo=https://www.notion.so/whoiswooney/Wooney-da1ffe4ceaca4c8295673e98587586fd)]
-
-
-
-
-
 
 😊 Interests
     
