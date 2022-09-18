@@ -3,6 +3,17 @@ I appreciate you visit ⎝⍢⎠
 
 Wooney (우니)
 
+KwangWoon Moon
+-----------------------------------------
+Uptime: 20 years
+Location: Siheung, Gyeonggi-do
+Pronouns: Man
+Language: Python
+Framework: Pytorch , Jax
+Learning: React, Flutter
+
+
+
 😊 Interests
     
      - Machine Learning & Deep Learning
