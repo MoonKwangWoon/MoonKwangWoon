@@ -3,16 +3,23 @@ I appreciate you visit ⎝⍢⎠
 
 Wooney (우니)
 
+addec64f889d.png" alt="익명이 (https://www.instagram.com/p/CYJygWKPwKB/)" width="280" /> 
 
-> neofetch
+```csharp
 KwangWoon Moon
 -----------------------------------------
-Uptime: 20 years
-Location: Siheung, Gyeonggi-do
-Pronouns: Man
+age: 20 years
+Location: Siheung , Gyeonggi-do
+Gender: Man
 Language: Python
-Framework: Pytorch , Jax
+Framework: Pytorch
 Learning: React, Flutter
+
+
+[![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=https://www.notion.so/whoiswooney/Wooney-da1ffe4ceaca4c8295673e98587586fd)
+
+
+
 
 
 
