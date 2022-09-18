@@ -26,14 +26,12 @@ Learning: React, Flutter
     
 🏆 Competition
 
-
-      - Intelligent Robot Utilization Creation Design ⚝Grand Prize⚝
-      - 8.8 Robot Days Festival ⚝participation prize⚝
+     - Intelligent Robot Utilization Creation Design ⚝Grand Prize⚝
+     - 8.8 Robot Days Festival ⚝participation prize⚝
  
  🤝 Contact
  
      If you wanna contact me . plz send e-mail to 2022148010@tukorea.ac.kr
-     
--------------------------------------------    
-```csharp
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wooney&theme=highcontrast&show_icons=true)
+```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Wooney=anuraghazra&theme=highcontrast&show_icons=true)
+
