@@ -1,5 +1,19 @@
 I appreciate you visit ⎝⍢⎠
 
+
+Wooney (우니)
+
+😊 Interests
+    
+     - Machine Learning & Deep Learning
+     - Medical Engineering
+     - ICT
+     - Embedded System
+    
+🏆 Competition
+      - Intelligent Robot Utilization Creation Design ⚝Grand Prize⚝
+      - 8.8 Robot Days Festival ⚝participation prize⚝
+
 <!--
 **MoonKwangWoon/MoonKwangWoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
