@@ -3,7 +3,7 @@ I appreciate you visit ⎝⍢⎠
 
 Wooney (우니)
 
-addec64f889d.png" alt="익명이 (https://www.instagram.com/p/CYJygWKPwKB/)" width="280" /> 
+
 
 ```csharp
 KwangWoon Moon
@@ -16,7 +16,7 @@ Framework: Pytorch
 Learning: React, Flutter
 
 
-[![Notion Badge](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=https://www.notion.so/whoiswooney/Wooney-da1ffe4ceaca4c8295673e98587586fd)
+[![Notion Badge] (https://img.shields.io/badge/-Notion-black?style=flat-square&logo=https://www.notion.so/whoiswooney/Wooney-da1ffe4ceaca4c8295673e98587586fd)]
 
 
 
